@@ -103,7 +103,6 @@ Run notebooks in order: 01 → 02 → 03 → 04 → 05 → 06
 
 - Dataset covers only 8 days — forecasting captures short-term patterns only
 - Domain-specific (airline complaints) — pipeline needs retraining for other domains
-- Classical ML cannot capture sarcasm or deep contextual irony
 
 ---
 
